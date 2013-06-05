@@ -31,7 +31,7 @@ Truly, I mean it with all my sincerity
   
 Through and through Pouchdb is opensource  
 With Dale Harvey leading the force  
-Iterating and fixing always  
+Iterating and fixing all the way  
 Helping developers day to day  
   
 *Pouch oh Pouch my mighty king  
@@ -45,8 +45,8 @@ PouchDB brings you the new and fresh
 MapReduce queries in the goddamn flesh  
   
 Worried about the support across browsers?  
-I din't say, but that's a Pouch superpower  
-Works in Chrome, FIrefox, Opera and the rest  
+I didn't say, but that's a Pouch superpower  
+Works in Chrome, Firefox, Opera and the rest  
 Oh and yes that does means nodejs  
   
 *Pouch oh Pouch my mighty king  
