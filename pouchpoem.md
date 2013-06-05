@@ -19,12 +19,10 @@ Sending all its docs, not a second late
 Where? where? you may say or ask
 Couch or PouchDb in one simple task
 
-::Chorus::
-Pouch oh Pouch my mighty king
+*Pouch oh Pouch my mighty king
 With all that you bring
 making all the browsers sing
-Like it ain't no thing
-::End::
+Like it ain't no thing*
 
 Syncing data got you down?
 I'm here to tell you, not in Pouch town
@@ -36,12 +34,10 @@ With Dale Harvey leading the force
 Iterating and fixing always
 Helping developers day to day
 
-::Chorus::
-Pouch oh Pouch my mighty king
+*Pouch oh Pouch my mighty king
 With all that you bring
 making all the browsers sing
-Like it ain't no thing
-::End::
+Like it ain't no thing*
 
 Tired of slow queries, well that's SQL
 Want something that has no other equal
@@ -53,12 +49,10 @@ I din't say, but that's a Pouch superpower
 Works in Chrome, FIrefox, Opera and the rest
 Oh and yes that does means nodejs
 
-::Chorus::
-Pouch oh Pouch my mighty king
+*Pouch oh Pouch my mighty king
 With all that you bring
 making all the browsers sing
-Like it ain't no thing
-::End::
+Like it ain't no thing*
 
 Now can't you see the light?
 PouchDB is not just alright
